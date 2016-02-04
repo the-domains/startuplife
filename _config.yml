@@ -1,0 +1,28 @@
+name: startuplife
+favicon: null
+layout_spectrum: 0.2780059480573982
+typography_spectrum: 0.9992824189830571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6939645537640899
+  lightness: 0.9086134440731257
+  saturation: 0.0386135985609144
+  rhythmicContrast: 0.6777026890777051
+purpose: []
